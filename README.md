@@ -56,7 +56,7 @@ Click on each cell to run individually:
 
 Running this cell builds the third alternative model for the deep neural net, 100 Epochs and 3 hidden layers:
 
-![Code Example]()
+![Code Example](https://github.com/talibkateeb/Deep-NN-Alphabet-Soup-VC/blob/main/Code-Example.png)
 
 ---
 
